@@ -15,3 +15,5 @@ void main()
    }
    printf("\nThe Sum of odd Natural Number upto %d terms : %d \n",n,sum);
 }
+return 0;
+}
